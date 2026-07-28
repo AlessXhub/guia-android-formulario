@@ -1,0 +1,10 @@
+<resources>
+    <color name="page_background">#F4F8FA</color>
+    <color name="card_background">#E4F2F4</color>
+    <color name="field_background">#FFFFFF</color>
+    <color name="accent">#157A8A</color>
+    <color name="accent_dark">#0F4C5C</color>
+    <color name="ink">#173042</color>
+    <color name="muted_ink">#5B6D78</color>
+    <color name="field_border">#A9BBC4</color>
+</resources>

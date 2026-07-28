@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Saludo de usuario</string>
+    <string name="screen_title">Datos personales</string>
+    <string name="screen_subtitle">Completa el formulario para conocer tu edad actual.</string>
+    <string name="name_label">Nombre completo</string>
+    <string name="name_hint">Ejemplo: Daniel Sosa</string>
+    <string name="birth_date_label">Fecha de nacimiento</string>
+    <string name="birth_date_hint">dd/mm/aaaa</string>
+    <string name="email_label">Correo electrónico (opcional)</string>
+    <string name="email_hint">nombre@correo.com</string>
+    <string name="button_label">Mostrar saludo</string>
+    <string name="result_initial">El saludo aparecerá aquí.</string>
+    <string name="greeting_format">Hola %1$s,\nTu edad actual es %2$d años.</string>
+    <string name="email_confirmation">Confirmación: %1$s</string>
+    <string name="error_name">Escribe tu nombre para continuar.</string>
+    <string name="error_date">Escribe una fecha válida con el formato dd/mm/aaaa.</string>
+    <string name="error_future_date">La fecha de nacimiento no puede estar en el futuro.</string>
+    <string name="logo_description">Icono de perfil de usuario</string>
+</resources>
