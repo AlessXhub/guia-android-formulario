@@ -31,4 +31,4 @@ dependencias externas de interfaz.
 ![Saludo con edad calculada](screenshots/resultado.png)
 
 La guía visual completa está disponible en
-[`docs/Guia_visual_Android_pasos_importantes.docx`](docs/Guia_visual_Android_pasos_importantes.docx).
+[`docs/guia1kotlin.docx`](docs/guia1kotlin.docx).
